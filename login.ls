@@ -1,3 +1,3 @@
 (require) <~ definel
 login ->
-console.log "hello world"
+console.log "fucking boy"
